@@ -1,7 +1,7 @@
-package CoffeeDecorator;
+package src.main.java.CoffeeDecorator;
 
-import CoffeeDecorator.decorators.WithMilk;
-import CoffeeDecorator.decorators.WithSugar;
+import src.main.java.CoffeeDecorator.decorators.WithMilk;
+import src.main.java.CoffeeDecorator.decorators.WithSugar;
 
 public class Demo {
     public static void main(String[] args) {

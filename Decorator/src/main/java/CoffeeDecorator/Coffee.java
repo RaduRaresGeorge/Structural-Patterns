@@ -1,4 +1,4 @@
-package CoffeeDecorator;
+package src.main.java.CoffeeDecorator;
 
 public abstract class Coffee {
     public abstract double getCost(); // Returns the cost of the coffee

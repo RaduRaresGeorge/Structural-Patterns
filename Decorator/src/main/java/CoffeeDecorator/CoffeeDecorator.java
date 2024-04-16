@@ -1,4 +1,4 @@
-package CoffeeDecorator;
+package src.main.java.CoffeeDecorator;
 
 public abstract class CoffeeDecorator extends Coffee {
     protected final Coffee decoratedCoffee;

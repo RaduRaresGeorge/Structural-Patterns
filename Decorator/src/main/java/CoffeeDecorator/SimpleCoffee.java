@@ -1,4 +1,4 @@
-package CoffeeDecorator;
+package src.main.java.CoffeeDecorator;
 
 public class SimpleCoffee extends Coffee {
     @Override

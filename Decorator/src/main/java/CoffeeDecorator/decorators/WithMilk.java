@@ -1,7 +1,7 @@
-package CoffeeDecorator.decorators;
+package src.main.java.CoffeeDecorator.decorators;
 
-import CoffeeDecorator.CoffeeDecorator;
-import CoffeeDecorator.Coffee;
+import src.main.java.CoffeeDecorator.CoffeeDecorator;
+import src.main.java.CoffeeDecorator.Coffee;
 
 public class WithMilk extends CoffeeDecorator {
     public WithMilk(Coffee decoratedCoffee) {
