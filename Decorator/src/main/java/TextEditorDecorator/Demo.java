@@ -1,4 +1,4 @@
-package TextEditorDecorator;
+package src.main.java.TextEditorDecorator;
 
 public class Demo {
     public static void main(String[] args) {

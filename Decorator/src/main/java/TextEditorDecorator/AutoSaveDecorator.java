@@ -1,4 +1,4 @@
-package TextEditorDecorator;
+package src.main.java.TextEditorDecorator;
 
 public class AutoSaveDecorator extends TextEditorDecorator {
     public AutoSaveDecorator(TextEditor decoratedTextEditor) {

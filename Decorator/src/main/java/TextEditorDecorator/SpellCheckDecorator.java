@@ -1,4 +1,4 @@
-package TextEditorDecorator;
+package src.main.java.TextEditorDecorator;
 
 public class SpellCheckDecorator extends TextEditorDecorator {
     public SpellCheckDecorator(TextEditor decoratedTextEditor) {

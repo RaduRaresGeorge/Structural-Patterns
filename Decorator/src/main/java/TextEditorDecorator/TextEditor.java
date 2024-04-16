@@ -1,4 +1,4 @@
-package TextEditorDecorator;
+package src.main.java.TextEditorDecorator;
 
 public class TextEditor {
     private String text;

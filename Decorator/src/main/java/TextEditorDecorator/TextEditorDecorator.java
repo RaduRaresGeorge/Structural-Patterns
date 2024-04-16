@@ -1,4 +1,4 @@
-package TextEditorDecorator;
+package src.main.java.TextEditorDecorator;
 
 public abstract class TextEditorDecorator extends TextEditor {
     protected TextEditor decoratedTextEditor;
