@@ -1,7 +1,7 @@
-package CalificacionesComposite;
+package src.main.java.CalificacionesComposite;
 
-import CalificacionesComposite.compuesto.Asignatura;
-import CalificacionesComposite.hoja.Calificaciones;
+import src.main.java.CalificacionesComposite.compuesto.Asignatura;
+import src.main.java.CalificacionesComposite.hoja.Calificaciones;
 
 import java.util.List;
 

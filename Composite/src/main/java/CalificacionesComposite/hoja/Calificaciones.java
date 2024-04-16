@@ -1,6 +1,6 @@
-package CalificacionesComposite.hoja;
+package src.main.java.CalificacionesComposite.hoja;
 
-import CalificacionesComposite.Matricula;
+import src.main.java.CalificacionesComposite.Matricula;
 
 import java.util.List;
 

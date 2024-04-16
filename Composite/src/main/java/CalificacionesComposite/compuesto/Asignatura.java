@@ -1,6 +1,6 @@
-package CalificacionesComposite.compuesto;
+package src.main.java.CalificacionesComposite.compuesto;
 
-import CalificacionesComposite.Matricula;
+import src.main.java.CalificacionesComposite.Matricula;
 
 import java.util.ArrayList;
 import java.util.List;
