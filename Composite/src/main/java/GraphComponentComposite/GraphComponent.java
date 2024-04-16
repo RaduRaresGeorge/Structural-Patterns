@@ -1,4 +1,4 @@
-package GraphComponentComposite;
+package src.main.java.GraphComponentComposite;
 
 public interface GraphComponent {
     void display();

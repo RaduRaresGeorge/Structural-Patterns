@@ -1,5 +1,5 @@
 // CompositeNode.java
-package GraphComponentComposite;
+package src.main.java.GraphComponentComposite;
 
 import java.util.ArrayList;
 import java.util.List;
