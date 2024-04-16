@@ -1,4 +1,4 @@
-package TextPDFAdapter;
+package src.main.java.TextPDFAdapter;
 
 public class DocAdapter implements Document{
 

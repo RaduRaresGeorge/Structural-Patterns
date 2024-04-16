@@ -1,4 +1,4 @@
-package TextPDFAdapter;
+package src.main.java.TextPDFAdapter;
 
 public class Demo {
     public static void main(String[] args) {
