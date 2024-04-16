@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment="Structural Patterns" />
+    <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment="Calculadora Facade">
+      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/ComputerFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/ComputerFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/HardDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/HardDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Memory.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Client.executor": "Run",
     "Application.Demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -74,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713264855305</updated>
-      <workItem from="1713264856334" duration="807000" />
+      <workItem from="1713264856334" duration="1795000" />
     </task>
     <task id="LOCAL-00001" summary="Structural Patterns">
       <option name="closed" value="true" />
@@ -132,7 +139,71 @@
       <option name="project" value="LOCAL" />
       <updated>1713265399519</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Client Component Composite">
+      <option name="closed" value="true" />
+      <created>1713266094206</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266094206</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Graph Component Composite">
+      <option name="closed" value="true" />
+      <created>1713266158461</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266158461</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Graphical Shape Composite">
+      <option name="closed" value="true" />
+      <created>1713266238938</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266238938</updated>
+    </task>
+    <task id="LOCAL-00011" summary="University Component Composite">
+      <option name="closed" value="true" />
+      <created>1713266312296</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266312296</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Coffee Decorator">
+      <option name="closed" value="true" />
+      <created>1713266451203</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266451203</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Data Decorator">
+      <option name="closed" value="true" />
+      <created>1713266470319</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266470319</updated>
+    </task>
+    <task id="LOCAL-00014" summary="TextEditor Decorator">
+      <option name="closed" value="true" />
+      <created>1713266513595</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266513595</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Calculadora Facade">
+      <option name="closed" value="true" />
+      <created>1713266613913</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266613913</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +212,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adapter" />
     <MESSAGE value="Structural Patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Structural Patterns" />
+    <MESSAGE value="Client Component Composite" />
+    <MESSAGE value="Graph Component Composite" />
+    <MESSAGE value="Graphical Shape Composite" />
+    <MESSAGE value="University Component Composite" />
+    <MESSAGE value="Coffee Decorator" />
+    <MESSAGE value="Data Decorator" />
+    <MESSAGE value="TextEditor Decorator" />
+    <MESSAGE value="Calculadora Facade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculadora Facade" />
   </component>
 </project>
