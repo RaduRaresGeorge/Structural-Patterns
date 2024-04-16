@@ -1,4 +1,4 @@
-package PaymentProcessorAdapter.payment;
+package src.main.java.PaymentProcessorAdapter.payment;
 
 public class StripePaymentProcessor implements PaymentProcessor {
     @Override

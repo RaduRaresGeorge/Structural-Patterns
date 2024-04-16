@@ -1,10 +1,10 @@
-package PaymentProcessorAdapter;
+package src.main.java.PaymentProcessorAdapter;
 
-import PaymentProcessorAdapter.client.Client;
-import PaymentProcessorAdapter.payment.PayPalPaymentProcessor;
-import PaymentProcessorAdapter.payment.StripePaymentProcessor;
-import PaymentProcessorAdapter.payment.PaymentProcessor;
-import PaymentProcessorAdapter.payment.BitCoinPaymentProcessor;
+import src.main.java.PaymentProcessorAdapter.client.Client;
+import src.main.java.PaymentProcessorAdapter.payment.PayPalPaymentProcessor;
+import src.main.java.PaymentProcessorAdapter.payment.StripePaymentProcessor;
+import src.main.java.PaymentProcessorAdapter.payment.PaymentProcessor;
+import src.main.java.PaymentProcessorAdapter.payment.BitCoinPaymentProcessor;
 
 public class Demo {
     public static void main(String[] args) {

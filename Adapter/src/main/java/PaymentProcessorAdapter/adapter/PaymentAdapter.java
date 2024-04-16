@@ -1,8 +1,8 @@
-package PaymentProcessorAdapter.adapter;
+package src.main.java.PaymentProcessorAdapter.adapter;
 
-import PaymentProcessorAdapter.payment.PayPalPaymentProcessor;
-import PaymentProcessorAdapter.payment.PaymentProcessor;
-import PaymentProcessorAdapter.payment.StripePaymentProcessor;
+import src.main.java.PaymentProcessorAdapter.payment.PayPalPaymentProcessor;
+import src.main.java.PaymentProcessorAdapter.payment.PaymentProcessor;
+import src.main.java.PaymentProcessorAdapter.payment.StripePaymentProcessor;
 
 public class PaymentAdapter {
     private PaymentProcessor paymentProcessor;

@@ -4,12 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment="" />
+    <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment="Structural Patterns" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RaduRaresGeorge"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RaduRaresGeorge/Structural-Patterns.git",
+    "accountId": "734c9208-e9e1-4235-b03f-9f0b164b5c62"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -21,12 +36,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/rares/IdeaProjects/StructuralPatterns",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Composite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,10 +74,73 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713264855305</updated>
+      <workItem from="1713264856334" duration="807000" />
     </task>
+    <task id="LOCAL-00001" summary="Structural Patterns">
+      <option name="closed" value="true" />
+      <created>1713265113098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713265113098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Structural Patterns">
+      <option name="closed" value="true" />
+      <created>1713265128068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713265128068</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adapter">
+      <option name="closed" value="true" />
+      <created>1713265278786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713265278786</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adapter">
+      <option name="closed" value="true" />
+      <created>1713265287798</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713265287798</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adapter">
+      <option name="closed" value="true" />
+      <created>1713265291951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713265291951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Structural Patterns">
+      <option name="closed" value="true" />
+      <created>1713265353101</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713265353101</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Structural Patterns">
+      <option name="closed" value="true" />
+      <created>1713265399519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713265399519</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adapter" />
+    <MESSAGE value="Structural Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Structural Patterns" />
   </component>
 </project>

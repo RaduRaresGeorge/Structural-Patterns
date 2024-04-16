@@ -1,7 +1,7 @@
-package PaymentProcessorAdapter.client;
+package src.main.java.PaymentProcessorAdapter.client;
 
-import PaymentProcessorAdapter.adapter.PaymentAdapter;
-import PaymentProcessorAdapter.payment.PaymentProcessor;
+import src.main.java.PaymentProcessorAdapter.adapter.PaymentAdapter;
+import src.main.java.PaymentProcessorAdapter.payment.PaymentProcessor;
 
 public class Client {
     private PaymentProcessor paymentProcessor;
