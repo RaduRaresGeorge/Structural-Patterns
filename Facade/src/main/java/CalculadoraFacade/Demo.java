@@ -1,7 +1,7 @@
-package CalculadoraFacade;
+package src.main.java.CalculadoraFacade;
 
 
-import CalculadoraFacade.calculadora.Calculadora;
+import src.main.java.CalculadoraFacade.calculadora.Calculadora;
 
 public class Demo {
     public static void main(String[] args) {

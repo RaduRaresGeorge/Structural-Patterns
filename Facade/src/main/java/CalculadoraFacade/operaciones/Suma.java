@@ -1,4 +1,4 @@
-package CalculadoraFacade.operaciones;
+package src.main.java.CalculadoraFacade.operaciones;
 
 public class Suma {
 

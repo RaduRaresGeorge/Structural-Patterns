@@ -1,9 +1,9 @@
-package CalculadoraFacade.calculadora;
+package src.main.java.CalculadoraFacade.calculadora;
 
-import CalculadoraFacade.operaciones.Division;
-import CalculadoraFacade.operaciones.Multiplicacion;
-import CalculadoraFacade.operaciones.Resta;
-import CalculadoraFacade.operaciones.Suma;
+import src.main.java.CalculadoraFacade.operaciones.Division;
+import src.main.java.CalculadoraFacade.operaciones.Multiplicacion;
+import src.main.java.CalculadoraFacade.operaciones.Resta;
+import src.main.java.CalculadoraFacade.operaciones.Suma;
 
 public class Calculadora {
 
