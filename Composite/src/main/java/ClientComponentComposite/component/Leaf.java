@@ -1,4 +1,4 @@
-package ClientComponentComposite.component;
+package src.main.java.ClientComponentComposite.component;
 
 public class Leaf implements Component {
     private String name;

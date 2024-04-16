@@ -1,4 +1,4 @@
-package ClientComponentComposite.component;
+package src.main.java.ClientComponentComposite.component;
 
 import java.util.ArrayList;
 import java.util.List;

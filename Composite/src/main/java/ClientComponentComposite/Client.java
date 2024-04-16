@@ -1,8 +1,8 @@
-package ClientComponentComposite;
+package src.main.java.ClientComponentComposite;
 
-import ClientComponentComposite.component.Component;
-import ClientComponentComposite.component.Composite;
-import ClientComponentComposite.component.Leaf;
+import src.main.java.ClientComponentComposite.component.Component;
+import src.main.java.ClientComponentComposite.component.Composite;
+import src.main.java.ClientComponentComposite.component.Leaf;
 
 public class Client {
     public static void main(String[] args) {
