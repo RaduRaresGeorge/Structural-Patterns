@@ -1,4 +1,4 @@
-package ComputerFacade;
+package src.main.java.ComputerFacade;
 
 public class Client {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ComputerFacade;
+package src.main.java.ComputerFacade;
 
 public class CPU {
     public void freeze() {

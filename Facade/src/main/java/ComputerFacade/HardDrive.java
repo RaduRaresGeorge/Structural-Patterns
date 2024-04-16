@@ -1,4 +1,4 @@
-package ComputerFacade;
+package src.main.java.ComputerFacade;
 
 public class HardDrive {
     public byte[] read(long lba, int size) {
