@@ -1,8 +1,8 @@
-package proxy;
+package src.main.java.proxy;
 
-import lib.ThirdPartyYouTubeClass;
-import lib.ThirdPartyYouTubeLib;
-import lib.Video;
+import src.main.java.lib.ThirdPartyYouTubeClass;
+import src.main.java.lib.ThirdPartyYouTubeLib;
+import src.main.java.lib.Video;
 
 import java.util.HashMap;
 

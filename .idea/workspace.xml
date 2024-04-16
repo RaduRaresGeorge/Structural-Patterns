@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment="Calculadora Facade">
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/ComputerFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/ComputerFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/HardDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/HardDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Memory.java" afterDir="false" />
+    <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment=".idea">
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/downloader/YouTubeDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/downloader/YouTubeDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/lib/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/lib/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/proxy/YouTubeCacheProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/proxy/YouTubeCacheProxy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713264855305</updated>
-      <workItem from="1713264856334" duration="1795000" />
+      <workItem from="1713264856334" duration="2170000" />
     </task>
     <task id="LOCAL-00001" summary="Structural Patterns">
       <option name="closed" value="true" />
@@ -203,7 +204,39 @@
       <option name="project" value="LOCAL" />
       <updated>1713266613913</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Computer Facade">
+      <option name="closed" value="true" />
+      <created>1713266851117</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266851117</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ecommerce Facade">
+      <option name="closed" value="true" />
+      <created>1713266879485</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266879485</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Video Conversion Facade">
+      <option name="closed" value="true" />
+      <created>1713266901777</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266901777</updated>
+    </task>
+    <task id="LOCAL-00019" summary=".idea">
+      <option name="closed" value="true" />
+      <created>1713266909059</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266909059</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +253,10 @@
     <MESSAGE value="Data Decorator" />
     <MESSAGE value="TextEditor Decorator" />
     <MESSAGE value="Calculadora Facade" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculadora Facade" />
+    <MESSAGE value="Computer Facade" />
+    <MESSAGE value="Ecommerce Facade" />
+    <MESSAGE value="Video Conversion Facade" />
+    <MESSAGE value=".idea" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
   </component>
 </project>

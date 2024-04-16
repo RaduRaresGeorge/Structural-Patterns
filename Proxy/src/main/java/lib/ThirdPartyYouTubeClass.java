@@ -1,4 +1,4 @@
-package lib;
+package src.main.java.lib;
 
 import java.util.HashMap;
 

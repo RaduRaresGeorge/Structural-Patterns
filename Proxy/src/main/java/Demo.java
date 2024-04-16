@@ -1,7 +1,8 @@
+package src.main.java;
 
-import downloader.YouTubeDownloader;
-import lib.ThirdPartyYouTubeClass;
-import proxy.YouTubeCacheProxy;
+import src.main.java.downloader.YouTubeDownloader;
+import src.main.java.lib.ThirdPartyYouTubeClass;
+import src.main.java.proxy.YouTubeCacheProxy;
 
 public class Demo {
 

@@ -1,4 +1,4 @@
-package lib;
+package src.main.java.lib;
 
 public class Video {
     public String id;

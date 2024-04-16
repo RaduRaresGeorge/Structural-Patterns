@@ -1,7 +1,7 @@
-package downloader;
+package src.main.java.downloader;
 
-import lib.ThirdPartyYouTubeLib;
-import lib.Video;
+import src.main.java.lib.ThirdPartyYouTubeLib;
+import src.main.java.lib.Video;
 
 import java.util.HashMap;
 
