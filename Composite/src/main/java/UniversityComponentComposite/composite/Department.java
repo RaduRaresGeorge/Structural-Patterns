@@ -1,6 +1,6 @@
-package UniversityComponentComposite.composite;
+package src.main.java.UniversityComponentComposite.composite;
 
-import UniversityComponentComposite.component.UniversityComponent;
+import src.main.java.UniversityComponentComposite.component.UniversityComponent;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
-package UniversityComponentComposite.leaf;
+package src.main.java.UniversityComponentComposite.leaf;
 
-import UniversityComponentComposite.component.UniversityComponent;
+import src.main.java.UniversityComponentComposite.component.UniversityComponent;
 
 public class Professor implements UniversityComponent {
     private String name;

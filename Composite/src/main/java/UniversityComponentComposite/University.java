@@ -1,9 +1,9 @@
-package UniversityComponentComposite;
+package src.main.java.UniversityComponentComposite;
 
-import UniversityComponentComposite.component.UniversityComponent;
-import UniversityComponentComposite.composite.College;
-import UniversityComponentComposite.composite.Department;
-import UniversityComponentComposite.leaf.Professor;
+import src.main.java.UniversityComponentComposite.component.UniversityComponent;
+import src.main.java.UniversityComponentComposite.composite.College;
+import src.main.java.UniversityComponentComposite.composite.Department;
+import src.main.java.UniversityComponentComposite.leaf.Professor;
 
 public class University {
     public static void main(String[] args) {
