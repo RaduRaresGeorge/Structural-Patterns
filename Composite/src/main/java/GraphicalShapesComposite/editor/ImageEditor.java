@@ -1,7 +1,7 @@
-package GraphicalShapesComposite.editor;
+package src.main.java.GraphicalShapesComposite.editor;
 
-import GraphicalShapesComposite.shapes.CompoundShape;
-import GraphicalShapesComposite.shapes.Shape;
+import src.main.java.GraphicalShapesComposite.shapes.CompoundShape;
+import src.main.java.GraphicalShapesComposite.shapes.Shape;
 
 import javax.swing.*;
 import javax.swing.border.Border;

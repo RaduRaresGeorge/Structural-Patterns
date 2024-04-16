@@ -1,4 +1,4 @@
-package GraphicalShapesComposite.shapes;
+package src.main.java.GraphicalShapesComposite.shapes;
 
 import java.awt.*;
 

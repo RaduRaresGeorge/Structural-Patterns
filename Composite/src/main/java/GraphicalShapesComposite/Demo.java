@@ -1,10 +1,10 @@
-package GraphicalShapesComposite;
+package src.main.java.GraphicalShapesComposite;
 
-import GraphicalShapesComposite.shapes.Circle;
-import GraphicalShapesComposite.shapes.CompoundShape;
-import GraphicalShapesComposite.shapes.Dot;
-import GraphicalShapesComposite.shapes.Rectangle;
-import GraphicalShapesComposite.editor.ImageEditor;
+import src.main.java.GraphicalShapesComposite.shapes.Circle;
+import src.main.java.GraphicalShapesComposite.shapes.CompoundShape;
+import src.main.java.GraphicalShapesComposite.shapes.Dot;
+import src.main.java.GraphicalShapesComposite.shapes.Rectangle;
+import src.main.java.GraphicalShapesComposite.editor.ImageEditor;
 
 import java.awt.*;
 
