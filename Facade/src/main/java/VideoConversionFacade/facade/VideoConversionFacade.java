@@ -1,6 +1,6 @@
-package VideoConversionFacade.facade;
+package src.main.java.VideoConversionFacade.facade;
 
-import VideoConversionFacade.complex_media_library.*;
+import src.main.java.VideoConversionFacade.complex_media_library.*;
 
 import java.io.File;
 

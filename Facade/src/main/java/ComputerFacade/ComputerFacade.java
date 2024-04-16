@@ -1,4 +1,4 @@
-package ComputerFacade;
+package src.main.java.ComputerFacade;
 
 public class ComputerFacade {
     private static final long BOOT_ADDRESS = 0;

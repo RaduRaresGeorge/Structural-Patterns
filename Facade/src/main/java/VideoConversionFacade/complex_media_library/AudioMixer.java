@@ -1,4 +1,4 @@
-package VideoConversionFacade.complex_media_library;
+package src.main.java.VideoConversionFacade.complex_media_library;
 
 import java.io.File;
 
