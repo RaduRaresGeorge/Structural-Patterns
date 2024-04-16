@@ -1,7 +1,7 @@
-package ClientServiceAdapter.adapter;
+package src.main.java.ClientServiceAdapter.adapter;
 
-import ClientServiceAdapter.client.Client;
-import ClientServiceAdapter.service.Service;
+import src.main.java.ClientServiceAdapter.client.Client;
+import src.main.java.ClientServiceAdapter.service.Service;
 
 public class ClientServiceAdapter extends Client {
     private Service service;

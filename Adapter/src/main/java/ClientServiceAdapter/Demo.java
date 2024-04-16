@@ -1,8 +1,8 @@
-package ClientServiceAdapter;
+package src.main.java.ClientServiceAdapter;
 
-import ClientServiceAdapter.client.Client;
-import ClientServiceAdapter.service.Service;
-import ClientServiceAdapter.adapter.ClientServiceAdapter;
+import src.main.java.ClientServiceAdapter.client.Client;
+import src.main.java.ClientServiceAdapter.service.Service;
+import src.main.java.ClientServiceAdapter.adapter.ClientServiceAdapter;
 
 public class Demo {
     public static void main(String[] args) {

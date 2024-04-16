@@ -1,4 +1,4 @@
-package ClientServiceAdapter.service;
+package src.main.java.ClientServiceAdapter.service;
 
 public class Service {
     public void executeService() {
