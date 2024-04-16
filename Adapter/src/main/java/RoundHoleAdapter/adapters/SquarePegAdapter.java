@@ -1,7 +1,7 @@
-package RoundHoleAdapter.adapters;
+package src.main.java.RoundHoleAdapter.adapters;
 
-import RoundHoleAdapter.round.RoundPeg;
-import RoundHoleAdapter.square.SquarePeg;
+import src.main.java.RoundHoleAdapter.round.RoundPeg;
+import src.main.java.RoundHoleAdapter.square.SquarePeg;
 
 /**
  * Adapter allows fitting RoundHoleAdapter.square pegs into round holes.

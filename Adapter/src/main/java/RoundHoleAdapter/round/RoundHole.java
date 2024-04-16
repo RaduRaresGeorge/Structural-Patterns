@@ -1,4 +1,4 @@
-package RoundHoleAdapter.round;
+package src.main.java.RoundHoleAdapter.round;
 
 /**
  * RoundHoles are compatible with RoundPegs.

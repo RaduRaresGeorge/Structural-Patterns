@@ -1,4 +1,4 @@
-package RoundHoleAdapter.square;
+package src.main.java.RoundHoleAdapter.square;
 
 /**
  * SquarePegs are not compatible with RoundHoles (they were implemented by
