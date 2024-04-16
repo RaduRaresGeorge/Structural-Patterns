@@ -1,7 +1,7 @@
-package DataDecorator;
+package src.main.java.DataDecorator;
 
-import DataDecorator.decorators.CompressionDecorator;
-import DataDecorator.decorators.EncryptionDecorator;
+import src.main.java.DataDecorator.decorators.CompressionDecorator;
+import src.main.java.DataDecorator.decorators.EncryptionDecorator;
 
 public class Demo {
     public static void main(String[] args) {

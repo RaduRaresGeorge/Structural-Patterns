@@ -1,7 +1,7 @@
-package DataDecorator.decorators;
+package src.main.java.DataDecorator.decorators;
 
-import DataDecorator.DataSource;
-import DataDecorator.DataSourceDecorator;
+import src.main.java.DataDecorator.DataSource;
+import src.main.java.DataDecorator.DataSourceDecorator;
 
 import java.util.Base64;
 

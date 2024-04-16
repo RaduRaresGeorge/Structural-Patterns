@@ -1,4 +1,4 @@
-package DataDecorator;
+package src.main.java.DataDecorator;
 
 import java.io.*;
 

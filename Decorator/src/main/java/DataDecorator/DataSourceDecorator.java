@@ -1,4 +1,4 @@
-package DataDecorator;
+package src.main.java.DataDecorator;
 
 public class DataSourceDecorator implements DataSource {
     private DataSource wrappee;
