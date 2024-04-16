@@ -1,4 +1,4 @@
-package EcommerceFacade;
+package src.main.java.EcommerceFacade;
 
 public class Payment {
     public boolean makePayment(String product, double price) {

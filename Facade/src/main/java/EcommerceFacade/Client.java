@@ -1,4 +1,4 @@
-package EcommerceFacade;
+package src.main.java.EcommerceFacade;
 
 public class Client {
     public static void main(String[] args) {
