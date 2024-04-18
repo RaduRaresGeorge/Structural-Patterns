@@ -1,1 +1,1 @@
-Implementation by Radu Rares George of Creational Patterns learned from refactoring.guru
+Implementation by Radu Rares George of Structural Patterns learned from refactoring.guru
