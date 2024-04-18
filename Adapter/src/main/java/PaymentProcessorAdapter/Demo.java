@@ -6,7 +6,17 @@ import src.main.java.PaymentProcessorAdapter.payment.StripePaymentProcessor;
 import src.main.java.PaymentProcessorAdapter.payment.PaymentProcessor;
 import src.main.java.PaymentProcessorAdapter.payment.BitCoinPaymentProcessor;
 
+/**
+ * This class demonstrates the use of the PaymentProcessorAdapter pattern.
+ * It creates several clients and payment processors, and then makes payments using these clients.
+ */
 public class Demo {
+    /**
+     * The main method of this class.
+     * It creates several clients and payment processors, and then makes payments using these clients.
+     *
+     * @param args the command-line arguments
+     */
     public static void main(String[] args) {
         // Create a payment methods
         PaymentProcessor payPalProcessor = new PayPalPaymentProcessor();
@@ -30,6 +40,5 @@ public class Demo {
 
         // Make a payment using a payment method that is not supported by the adapter.
         client4.makePayment(25.0);
-
     }
 }

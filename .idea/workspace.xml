@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment=".idea">
-      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/downloader/YouTubeDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/downloader/YouTubeDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeLib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/lib/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/lib/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/proxy/YouTubeCacheProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/proxy/YouTubeCacheProxy.java" afterDir="false" />
-    </list>
+    <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment="readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,43 +13,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "RaduRaresGeorge"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RaduRaresGeorge&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RaduRaresGeorge/Structural-Patterns.git",
-    "accountId": "734c9208-e9e1-4235-b03f-9f0b164b5c62"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RaduRaresGeorge/Structural-Patterns.git&quot;,
+    &quot;accountId&quot;: &quot;734c9208-e9e1-4235-b03f-9f0b164b5c62&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2fBBzmm3Fj8Bg3h4CRRIL8Iuctv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Client.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/rares/IdeaProjects/StructuralPatterns",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rares/IdeaProjects/StructuralPatterns&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -83,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713264855305</updated>
       <workItem from="1713264856334" duration="2170000" />
+      <workItem from="1713422113002" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="Structural Patterns">
       <option name="closed" value="true" />
@@ -236,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713266909059</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="readme">
+      <option name="closed" value="true" />
+      <created>1713422209953</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713422209953</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +259,7 @@
     <MESSAGE value="Ecommerce Facade" />
     <MESSAGE value="Video Conversion Facade" />
     <MESSAGE value=".idea" />
-    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
 </project>
