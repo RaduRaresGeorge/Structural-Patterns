@@ -5,30 +5,63 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * This class represents a compound shape in the context of a composite design pattern.
+ * It extends the BaseShape class and manages a list of child shapes.
+ */
 public class CompoundShape extends BaseShape {
     protected List<Shape> children = new ArrayList<>();
 
+    /**
+     * Constructs a new compound shape with specified components.
+     * It initializes the compound shape with a black color and adds the components.
+     *
+     * @param components the components of the compound shape
+     */
     public CompoundShape(Shape... components) {
         super(0, 0, Color.BLACK);
         add(components);
     }
 
+    /**
+     * Adds a component to the compound shape.
+     *
+     * @param component the component to be added
+     */
     public void add(Shape component) {
         children.add(component);
     }
 
+    /**
+     * Adds multiple components to the compound shape.
+     *
+     * @param components the components to be added
+     */
     public void add(Shape... components) {
         children.addAll(Arrays.asList(components));
     }
 
+    /**
+     * Removes a component from the compound shape.
+     *
+     * @param child the component to be removed
+     */
     public void remove(Shape child) {
         children.remove(child);
     }
 
+    /**
+     * Removes multiple components from the compound shape.
+     *
+     * @param components the components to be removed
+     */
     public void remove(Shape... components) {
         children.removeAll(Arrays.asList(components));
     }
 
+    /**
+     * Clears all components from the compound shape.
+     */
     public void clear() {
         children.clear();
     }
@@ -114,6 +147,14 @@ public class CompoundShape extends BaseShape {
         }
     }
 
+    /**
+     * Selects a child at the specified coordinates.
+     * It iterates over the children and selects the first child that is inside the bounds of the specified coordinates.
+     *
+     * @param x the x coordinate
+     * @param y the y coordinate
+     * @return true if a child was selected, false otherwise
+     */
     public boolean selectChildAt(int x, int y) {
         for (Shape child : children) {
             if (child.isInsideBounds(x, y)) {
@@ -124,6 +165,13 @@ public class CompoundShape extends BaseShape {
         return false;
     }
 
+    /**
+     * Paints the compound shape on the canvas.
+     * If the compound shape is selected, it enables the selection style and draws a rectangle around the compound shape.
+     * Then it disables the selection style and paints the child shapes.
+     *
+     * @param graphics the Graphics context in which to paint
+     */
     @Override
     public void paint(Graphics graphics) {
         if (isSelected()) {
