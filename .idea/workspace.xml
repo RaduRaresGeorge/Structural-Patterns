@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment="readme">
-      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/ClientComponentComposite/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/ClientComponentComposite/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/ClientComponentComposite/component/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/ClientComponentComposite/component/Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/ClientComponentComposite/component/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/ClientComponentComposite/component/Composite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/ClientComponentComposite/component/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/ClientComponentComposite/component/Leaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/BaseShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/BaseShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/CompoundShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/CompoundShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/Dot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/Dot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/GraphicalShapesComposite/shapes/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/component/UniversityComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/component/UniversityComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/composite/College.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/composite/College.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/composite/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/composite/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/leaf/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Composite/src/main/java/UniversityComponentComposite/leaf/Professor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713264855305</updated>
       <workItem from="1713264856334" duration="2170000" />
-      <workItem from="1713422113002" duration="1253000" />
+      <workItem from="1713422113002" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="Structural Patterns">
       <option name="closed" value="true" />
