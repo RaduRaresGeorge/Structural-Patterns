@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b82b76d0-065d-4cc9-b216-1dc09f493f9b" name="Changes" comment="del">
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/ComputerFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/ComputerFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/HardDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/HardDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facade/src/main/java/ComputerFacade/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/downloader/YouTubeDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/downloader/YouTubeDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/lib/ThirdPartyYouTubeLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/lib/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/lib/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/src/main/java/proxy/YouTubeCacheProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/src/main/java/proxy/YouTubeCacheProxy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +73,7 @@
       <recent name="$PROJECT_DIR$/Composite" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Facade/resources" />
       <recent name="$PROJECT_DIR$/Decorator/resources" />
       <recent name="$PROJECT_DIR$/Composite/src/main/resources" />
       <recent name="$PROJECT_DIR$/Adapter/resources" />
@@ -88,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713264855305</updated>
       <workItem from="1713264856334" duration="2170000" />
-      <workItem from="1713422113002" duration="3553000" />
+      <workItem from="1713422113002" duration="4067000" />
     </task>
     <task id="LOCAL-00001" summary="Structural Patterns">
       <option name="closed" value="true" />
