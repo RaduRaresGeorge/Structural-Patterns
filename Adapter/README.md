@@ -1,4 +1,4 @@
-# Adapter 
+# Structural Design Pattern - Adapter 
     Implementation by Radu Rares George
 
 ![Adapter](resources/structure-object-adapter.png)
